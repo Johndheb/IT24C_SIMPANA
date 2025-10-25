@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Mang inisal Puerto Cagyan De Oro",
+        "description": "Mang Inasal stores are open for dine-in, takeout, and delivery from Monday to Sunday. However operating hours may vary during the Holiday season.",
+        "img": "https://www.manginasal.ph/locations",
+        "lat":  8.500121,
+        "lng":  124.751422
+    },
+   {
+       "name": "Chowking Puerto Cagayan de Oro",
+       "description": "Chowking is a quick-service Chinese restaurant with Filipino-inspired flavors. Originally from the Philippines, Chowking combines traditional Chinese cuisine with modern fast-food service.",
+       "img": "https://www.chowkingdelivery.com/",
+       "lat": 8.500283,
+        "lng": 124.751432
+    },
+{
+        "name": "Jollibee",
+        "description": "Welcome to the Municipality of Manolo Fortich JOLLIBEE. Our riders now accept Jollibee pa-buy.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPMmQdkedgKYaSNeNjAmo24DXVfYYwWDl4g&s",
+        "lat": 8.367368,
+        "lng": 124.865289 
+    }
+]
